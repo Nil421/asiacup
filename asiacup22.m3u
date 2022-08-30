@@ -23,10 +23,10 @@ http://10.16.100.207:8088/sports/StarSp0rtS1onehd.m3u8
 https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/oCnPnLHocc0hEOVT13O_lCyF0zQP0P_oA3mFupNUMkg8PToBRNTgDJLPFifzYeUdsTZk1asw7pQUljMie9Mfcg/transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/tw_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://15.1.1.10/assets/images/gazi.jpg" group-title="Asiacup",GTV
 https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/6ByAW4NjbO0_2fMxa3CUd0awYX7BhvL2d_PY86QLgm59BaLfPv8UOayGaGeqRkRyCsqCWVxW64dtcxUwrscOfA/transcode/ap-northeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
-
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://15.1.1.10/assets/images/gazi.jpg" group-title="Asiacup",STAR SPORTS 1 HD
+http://208.86.19.13:81/710.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://15.1.1.10/assets/images/gazi.jpg" group-title="Asiacup",BTV
+http://103.106.2.152:13456/btv.m3u8
 
 
 
